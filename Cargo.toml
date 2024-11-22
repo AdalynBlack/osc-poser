@@ -1,0 +1,10 @@
+[package]
+name = "osc-poser"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ctrlc = "3.4.5"
+glam = "0.29.1"
+interprocess = "2.2.1"
+rosc = "0.10.1"
